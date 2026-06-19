@@ -1,15 +1,20 @@
-# Hi, I'm Mascottz 👋
+# Hi, I'm Mascott
 
-I'm a self-taught PHP developer and IT professional based in Abuja, Nigeria. I build practical web apps with PHP and MySQL and help small businesses get online with simple, effective solutions.
+I'm a self-taught full-stack web developer and IT professional based in Abuja, Nigeria.  
+I build practical web apps using Node.js, PHP, Python, and MySQL, and I handle both frontend and backend development for websites and small business solutions.  
 
-I'm currently open to remote or Abuja-based junior PHP roles, internships, and freelance web projects.
+I'm currently open to remote or Abuja-based junior full-stack roles, internships, and freelance web projects.
 
 ---
 
 ## What I Do
 
-- Build PHP/MySQL web applications (job boards, simple dashboards, CRUD systems)
-- Design and deploy small business websites using HTML, CSS, and WordPress
+- Build full-stack web applications with Node.js, PHP, and Python (frontend + backend)
+- Design and develop web app APIs, server logic, and database integrations (backend)
+- Create responsive websites and web apps using HTML, CSS, and JavaScript
+- Build PHP/MySQL and Node.js/MySQL web applications (job boards, dashboards, CRUD systems)
+- Use Python for backend development and scripting (e.g., with Flask/Django if you use them)
+- Design and deploy small business websites using WordPress
 - Handle basic IT support, computer repairs, and network setup
 - Set up and manage CCTV systems for small offices and homes
 
@@ -17,35 +22,36 @@ I'm currently open to remote or Abuja-based junior PHP roles, internships, and f
 
 ## Tech Stack
 
-- **Languages:** PHP, HTML, CSS
-- **Database:** MySQL
-- **CMS:** WordPress
-- **Tools:** XAMPP, phpMyAdmin, VS Code, Git, GitHub
-- **Other:** Basic Bootstrap, cPanel/shared hosting
+**Languages**  
+- PHP  
+- JavaScript  
+- Python  
+- HTML  
+- CSS  
 
----
+**Backend**  
+- PHP (server logic, forms, sessions, auth)  
+- Node.js (Express.js, REST APIs, server logic)  
+- Python (Flask / Django, scripting, backend logic)  
+- RESTful API design (basic)
 
-## Projects
+**Database**  
+- MySQL  
 
-- **[Abuja Grad Jobs](https://github.com/Mascottz/Abuja-Grad-Jobs-PHP-MySQL-Job-Board-for-Fresh-Graduates)**  
-  PHP/MySQL job board for fresh graduates and NYSC members in Abuja, with separate flows for job seekers and employers, plus dashboards and profiles.
+**Frontend & UI**  
+- HTML  
+- CSS  
+- JavaScript  
+- Basic React (learning / improving)  
+- Tailwind CSS 
 
-*(More projects coming soon — I'm actively building and publishing new work.)*
+**CMS**  
+- WordPress  
 
----
-
-## What I'm Learning
-
-- Modern PHP best practices and cleaner project structure
-- Better UI with Bootstrap and responsive design
-- Deploying PHP apps beyond localhost (shared hosting, basic VPS)
-
----
-
-## Get in Touch
-
-- Email: [akinmi360@gmail.com](mailto:akinmi360@gmail.com)
-- LinkedIn: [www.linkedin.com/in/mascottz](https://www.linkedin.com/in/mascottz)
-- WhatsApp: **+2349138825300**
-
-Feel free to reach out if you need a simple PHP web app, a small business site, or an enthusiastic junior dev to join your team.
+**Tools**  
+- XAMPP  
+- phpMyAdmin  
+- VS Code  
+- Git & GitHub  
+- npm (Node Package Manager)  
+- pip (Python package manager)
