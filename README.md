@@ -13,7 +13,7 @@ I'm currently open to remote or Abuja-based junior full-stack roles, internships
 - Design and develop web app APIs, server logic, and database integrations (backend)
 - Create responsive websites and web apps using HTML, CSS, and JavaScript
 - Build PHP/MySQL and Node.js/MySQL web applications (job boards, dashboards, CRUD systems)
-- Use Python for backend development and scripting (e.g., with Flask/Django if you use them)
+- Use Python for backend development and scripting with Flask/Django
 - Design and deploy small business websites using WordPress
 - Handle basic IT support, computer repairs, and network setup
 - Set up and manage CCTV systems for small offices and homes
@@ -33,7 +33,7 @@ I'm currently open to remote or Abuja-based junior full-stack roles, internships
 - PHP (server logic, forms, sessions, auth)  
 - Node.js (Express.js, REST APIs, server logic)  
 - Python (Flask / Django, scripting, backend logic)  
-- RESTful API design (basic)
+- RESTful API design 
 
 **Database**  
 - MySQL  
@@ -42,7 +42,7 @@ I'm currently open to remote or Abuja-based junior full-stack roles, internships
 - HTML  
 - CSS  
 - JavaScript  
-- Basic React (learning / improving)  
+- React 
 - Tailwind CSS 
 
 **CMS**  
