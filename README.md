@@ -1,57 +1,30 @@
-# Hi, I'm Mascott
+# Hi there, I'm Mascottz 
 
-I'm a self-taught full-stack web developer and IT professional based in Abuja, Nigeria.  
-I build practical web apps using Node.js, PHP, Python, and MySQL, and I handle both frontend and backend development for websites and small business solutions.  
+**Full-Stack Web Developer & Software Engineer | Founder, MasTECH Innovations**
 
-I'm currently open to remote or Abuja-based junior full-stack roles, internships, and freelance web projects.
+I build responsive, high-performance web applications and enterprise solutions. My work spans everything from crafting intuitive UI components and custom state engines to architecting full Progressive Web Apps (PWAs). When I'm not writing code, I'm usually diving into computer hardware, exploring compiler architecture, or tinkering with local AI models.
+
+###  What I'm Up To
+*   **Building:** SmartStore (a POS e-commerce and inventory web app) and  MasTECH Academy LMS.
+*   **Exploring:** Language architecture (fuzz testing, bytecode execution, and LSP integration for the Kitsu language) and local LLM deployments via Ollama.
+*   **Operating:** MasTECH Innovations, delivering custom software solutions and professional computer hardware maintenance.
+*   **Designing:** ProofsGadgets, a community and marketplace platform for tech repair engineers.
+
+###  Tech Stack & Tools
+*   **Frontend:** JavaScript (ES6+), React, React Router, HTML5, CSS3, Tailwind CSS, Flexbox
+*   **Architecture:** Progressive Web Apps (PWAs), Single Page Applications (SPAs)
+*   **Backend & Hosting:** Node.js, Vercel, Netlify, GitHub Pages
+*   **Tools & Environment:** Git, Linux (Ubuntu, Zorin OS), CLI/Terminal Administration
+
+###  Beyond the Code
+*   **Hardware Enthusiast:** I regularly diagnose, repair, and upgrade PC hardware, breathing new life into enterprise laptops. 
+*   **Linguistics & Grammar:** Always refining sentence structures and exploring regional vocabulary across English, Nigerian Pidgin, Hausa, and Igbo.
+*   **Downtime:** Managing tactical masterclasses in Football Manager, or watching high-concept, classic sci-fi films.
+
+###  Let's Connect
+*   **Portfolio / Agency:** [www.mastechinnovations.com.ng]
+*   **Location:** Abuja, Nigeria
+*   **Email:** [mastech.ltd0@gmail.com]
 
 ---
-
-## What I Do
-
-- Build full-stack web applications with Node.js, PHP, and Python (frontend + backend)
-- Design and develop web app APIs, server logic, and database integrations (backend)
-- Create responsive websites and web apps using HTML, CSS, and JavaScript
-- Build PHP/MySQL and Node.js/MySQL web applications (job boards, dashboards, CRUD systems)
-- Use Python for backend development and scripting with Flask/Django
-- Design and deploy small business websites using WordPress
-- Handle basic IT support, computer repairs, and network setup
-- Set up and manage CCTV systems for small offices and homes
-
----
-
-## Tech Stack
-
-**Languages**  
-- PHP  
-- JavaScript  
-- Python  
-- HTML  
-- CSS  
-
-**Backend**  
-- PHP (server logic, forms, sessions, auth)  
-- Node.js (Express.js, REST APIs, server logic)  
-- Python (Flask / Django, scripting, backend logic)  
-- RESTful API design 
-
-**Database**  
-- MySQL  
-
-**Frontend & UI**  
-- HTML  
-- CSS  
-- JavaScript  
-- React 
-- Tailwind CSS 
-
-**CMS**  
-- WordPress  
-
-**Tools**  
-- XAMPP  
-- phpMyAdmin  
-- VS Code  
-- Git & GitHub  
-- npm (Node Package Manager)  
-- pip (Python package manager)
+ *Always open to collaborating on web architecture, ed-tech, or hardware-integrated software projects!*
