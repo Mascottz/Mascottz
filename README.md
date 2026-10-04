@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;Building+killowatt,+the+hard+stop+for+runaway+cloud+spend;Rust,+Elixir,+Julia,+Cue,+and+the+Kitsu+language" alt="typing header">
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;Building+KilloWatt,+the+hard+stop+for+runaway+cloud+spend;Rust,+Elixir,+Julia,+Cue,+and+the+Kitsu+language" alt="typing header">
 </p>
 
 <p align="center">
