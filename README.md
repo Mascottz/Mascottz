@@ -1,4 +1,4 @@
-!Mascottz; calm machines for loud problems
+Mascottz 
 
 Full-stack web developer and software engineer; founder of MasTECH Innovations. i build responsive, high-performance web apps and enterprise solutions, and lately, calm machines for loud problems; the newest is killowatt, a circuit breaker for runaway cloud spend.
 
