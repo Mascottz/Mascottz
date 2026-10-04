@@ -14,16 +14,9 @@ Full-stack web developer and software engineer; founder of MasTECH Innovations. 
 - frontend; javascript ES6+, react, react router, html5, css3, tailwind, flexbox
 - systems; rust for the parts that must not pause; elixir and the beam for a thousand tiny supervised processes; julia for the numbers layer
 - contracts and config; protobuf for the wire, cue for validated data
-- languages; kitsu in progress, and a soft spot for linguistics across english, nigerian pidgin, hausa, and igbo
-- backend and hosting; node.js, vercel, netlify, github pages
+- languages; kitsu in progress, and a soft spot for linguistics 
+- backend and hosting; node.js, vercel, netlify, github pages, Mastech hosting in progress
 - glue; git, linux, cli, bash, python
-
-## What i care about
-
-- watch mode before armed mode; earn the right to act
-- reversible first, lethal later
-- money in integer cents; floats never touch it
-- docs in my own voice; if it reads like a person wrote it, it was
 
 ## Currently shipping
 
