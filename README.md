@@ -7,6 +7,7 @@
   <a href="mailto:mastech.ltd0@gmail.com"><img src="https://img.shields.io/badge/Email-C98E5F?style=for-the-badge&logo=gmail&logoColor=white&color=8a5a34" alt="email"></a>
   <a href="https://dev.to/mascottz"><img src="https://img.shields.io/badge/Dev.to-101418?style=for-the-badge&logo=devdotto&logoColor=white&color=101418" alt="devto"></a>
   <a href="https://github.com/Mascottz/Killowatt"><img src="https://img.shields.io/badge/Killowatt-13221C?style=for-the-badge&logo=github&logoColor=white&color=13221C" alt="killowatt"></a>
+  <a href="https://x.com/mastech4u"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="x"></a>
 </p>
 
 <p align="center">
