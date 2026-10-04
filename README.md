@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;Building+KilloWatt,+the+hard+stop+for+runaway+cloud+spend;Rust,+Elixir,+Julia,+Cue,+and+the+Kitsu+language" alt="typing header">
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;Building+KilloWatt,+the+hard+stop+for+runaway+cloud+spend;Codex+Naturalis,+the+book+of+nature+written+in+mathematics;Rust,+Elixir,+Julia,+Cue,+and+the+Kitsu+language" alt="typing header">
 </p>
 
 <p align="center">
@@ -7,6 +7,7 @@
   <a href="mailto:mastech.ltd0@gmail.com"><img src="https://img.shields.io/badge/Email-C98E5F?style=for-the-badge&logo=gmail&logoColor=white&color=8a5a34" alt="email"></a>
   <a href="https://dev.to/mascottz"><img src="https://img.shields.io/badge/Dev.to-101418?style=for-the-badge&logo=devdotto&logoColor=white&color=101418" alt="devto"></a>
   <a href="https://github.com/Mascottz/Killowatt"><img src="https://img.shields.io/badge/Killowatt-13221C?style=for-the-badge&logo=github&logoColor=white&color=13221C" alt="killowatt"></a>
+  <a href="https://naturaliis.vercel.app"><img src="https://img.shields.io/badge/Codex_Naturalis-a85c4c?style=for-the-badge&logoColor=white&color=a85c4c" alt="codex naturalis"></a>
   <a href="https://x.com/mastech4u"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="x"></a>
 </p>
 
@@ -18,7 +19,7 @@
 
 ##  About me
 
-Full-stack software engineer and founder of MasTECH Innovations, building responsive, high-performance web apps and enterprise solutions by day, and calm machines for loud problems by night. the newest is killowatt, a circuit breaker for runaway cloud spend, written across five languages on purpose.
+Full-stack software engineer and founder of MasTECH Innovations, building responsive, high-performance web apps and enterprise solutions by day, and calm machines for loud problems by night. the newest is codex naturalis, a living book of the mathematics of the world; the one before it is killowatt, a circuit breaker for runaway cloud spend, written across five languages on purpose.
 
 -  **Focus:** cloud spend circuit breakers, language architecture for the kitsu language, POS and LMS platforms, and hardware that gets a second life
 -  **Foundations:** clean architecture, polyglot systems where each language earns its place, and docs written in my own voice
@@ -50,8 +51,8 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 ##  The numbers, live
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mascottz&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&icon_color=7FA8A0&show_icons=true&hide_border=true" alt="stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascottz&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&layout=compact&hide_border=true" alt="langs" width="44%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mascottz&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&icon_color=7FA8A0&show_icons=true&hide_border=true&cache_seconds=21600" alt="stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascottz&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600" alt="langs" width="44%">
 </p>
 
 <p align="center">
@@ -61,6 +62,8 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 ---
 
 ##  What i'm building
+
+- **[Codex Naturalis](https://github.com/Mascottz/codex-naturalis);** the earth, the galaxies, and the living world kept as living formulas; thirty plates, a solving desk for every open problem, and a public ledger. julia computes, rust referees, and every entry keeps the name of its human; live at [naturaliis.vercel.app](https://naturaliis.vercel.app)
 
 - **[Cutline](https://github.com/Mascottz/Cutline);** close one street in a frozen Yaba street graph and measure what changes; ocaml routing core in integer millimeters, elm atlas, offline and local, v0.1.0 shipped
 
