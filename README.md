@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;Building+killowatt,+the+hard+stop+for+runaway+cloud+spend;rust,+elixir,+julia,+cue,+and+the+kitsu+language" alt="typing header">
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;Building+killowatt,+the+hard+stop+for+runaway+cloud+spend;Rust,+Elixir,+Julia,+Cue,+and+the+Kitsu+language" alt="typing header">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="router"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa"> <img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white" alt="elm">
 
-### ⚙️ Systems, data and contracts
+###  Systems, data and contracts
 
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node"> <img src="https://img.shields.io/badge/CUE-2E70BB?style=for-the-badge&logoColor=white&color=2E70BB" alt="cue"> <img src="https://img.shields.io/badge/Protobuf-7B54C6?style=for-the-badge&logo=protobuf&logoColor=white&color=424242" alt="protobuf"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
 
@@ -71,9 +71,9 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 
 ##  Beyond the code
 
--  reviving enterprise laptops on the bench, one diagnosis at a time
--  linguistics and grammar across english, nigerian pidgin, hausa, and igbo; the next project, Àmì, is an autocorrect that finally learns them
--  tactical masterclasses in football manager, and high-concept classic sci-fi
+-  Reviving enterprise laptops on the bench, one diagnosis at a time
+-  Linguistics and grammar across english, nigerian pidgin, hausa, and igbo; the next project, Àmì, is an autocorrect that finally learns them
+-  Tactical masterclasses in football manager, and high-concept classic sci-fi
 
 ---
 
