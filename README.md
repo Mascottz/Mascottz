@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;building+killowatt,+the+hard+stop+for+runaway+cloud+spend;rust,+elixir,+julia,+cue,+and+the+kitsu+language" alt="typing header">
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=26&duration=3000&pause=1200&color=C98E5F&center=true&vCenter=true&width=900&lines=Mascottz,+full-stack+engineer+and+founder;Building+killowatt,+the+hard+stop+for+runaway+cloud+spend;rust,+elixir,+julia,+cue,+and+the+kitsu+language" alt="typing header">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 - 🔭 **Focus:** cloud spend circuit breakers, language architecture for the kitsu language, POS and LMS platforms, and hardware that gets a second life
 - ⚡ **Foundations:** clean architecture, polyglot systems where each language earns its place, and docs written in my own voice
 - 🏢 **Operating:** MasTECH Innovations, custom software solutions and professional computer hardware maintenance
-- 💬 **Ask me about:** React, Node, PWAs, Rust, Elixir, Julia, CUE, compiler bytecode and LSP work, and reviving enterprise laptops
+- 💬 **Ask me about:** React, Node, PWAs, PHP, GO, Rust, Elixir, Julia, CUE, compiler bytecode and LSP work, and reviving enterprise laptops
 
 ---
 
