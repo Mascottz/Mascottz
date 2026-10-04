@@ -30,23 +30,23 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 
 ###  Programming languages
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"> <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="rust"> <img src="https://img.shields.io/badge/Elixir-9B6BB3?style=for-the-badge&logo=elixir&logoColor=white" alt="elixir"> <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="julia"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"> <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="rust"> <img src="https://img.shields.io/badge/Elixir-9B6BB3?style=for-the-badge&logo=elixir&logoColor=white" alt="elixir"> <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="julia"> <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="ocaml"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash"> <img src="https://img.shields.io/badge/Kitsu_(in_progress)-8a5a34?style=for-the-badge&logoColor=white" alt="kitsu">
 
-### 🌐 Frontend and apps
+###  Frontend and apps
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="router"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="router"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind"> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa"> <img src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=elm&logoColor=white" alt="elm">
 
 ### ⚙️ Systems, data and contracts
 
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node"> <img src="https://img.shields.io/badge/CUE-2E70BB?style=for-the-badge&logoColor=white&color=2E70BB" alt="cue"> <img src="https://img.shields.io/badge/Protobuf-7B54C6?style=for-the-badge&logo=protobuf&logoColor=white&color=424242" alt="protobuf"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="actions"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux">
 
-### 🧰 Tools and environments
+###  Tools and environments
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="pages"> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white&color=000000" alt="ollama">
 
 ---
 
-## 📊 The numbers, live
+##  The numbers, live
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mascottz&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&icon_color=7FA8A0&show_icons=true&hide_border=true" alt="stats" width="48%">
@@ -60,6 +60,8 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 ---
 
 ##  What i'm building
+
+- **[Cutline](https://github.com/Mascottz/Cutline);** close one street in a frozen Yaba street graph and measure what changes; ocaml routing core in integer millimeters, elm atlas, offline and local, v0.1.0 shipped
 
 - **[Killowatt](https://github.com/Mascottz/Killowatt);** the hard stop for runaway cloud spend. rust core, elixir watchers, cue policies, julia anomaly scoring; v0.1.0 out, ci green in four languages
 - **[Small machines](https://github.com/Mascottz/small-machines);** three tools, one file each, nothing else needed; a poster press, a day dial, a breathing instrument
