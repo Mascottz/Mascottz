@@ -65,7 +65,7 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 - **[Cutline](https://github.com/Mascottz/Cutline);** close one street in a frozen Yaba street graph and measure what changes; ocaml routing core in integer millimeters, elm atlas, offline and local, v0.1.0 shipped
 
 - **[Killowatt](https://github.com/Mascottz/Killowatt);** the hard stop for runaway cloud spend. rust core, elixir watchers, cue policies, julia anomaly scoring; v0.1.0 out, ci green in four languages
-- **[Small machines](https://github.com/Mascottz/small-machines);** three tools, one file each, nothing else needed; a poster press, a day dial, a breathing instrument
+- **[Small machines](https://github.com/Mascottz/small-machines);** five tools, one file each, nothing else needed; a poster press, a day dial, a breathing instrument, a palette auditor, and the sky computed not fetched
 - **[Kitsu](https://github.com/Mascottz);** language architecture in progress; fuzz testing, bytecode execution, LSP integration
 - **SmartStore;** a POS e-commerce and inventory web app, and **MasTECH Academy LMS**
 - **ProofsGadgets;** a community and marketplace platform for tech repair engineers
