@@ -15,20 +15,20 @@
 
 ---
 
-## ⚡ About me
+##  About me
 
 Full-stack software engineer and founder of MasTECH Innovations, building responsive, high-performance web apps and enterprise solutions by day, and calm machines for loud problems by night. the newest is killowatt, a circuit breaker for runaway cloud spend, written across five languages on purpose.
 
-- 🔭 **Focus:** cloud spend circuit breakers, language architecture for the kitsu language, POS and LMS platforms, and hardware that gets a second life
-- ⚡ **Foundations:** clean architecture, polyglot systems where each language earns its place, and docs written in my own voice
-- 🏢 **Operating:** MasTECH Innovations, custom software solutions and professional computer hardware maintenance
-- 💬 **Ask me about:** React, Node, PWAs, PHP, GO, Rust, Elixir, Julia, CUE, compiler bytecode and LSP work, and reviving enterprise laptops
+-  **Focus:** cloud spend circuit breakers, language architecture for the kitsu language, POS and LMS platforms, and hardware that gets a second life
+-  **Foundations:** clean architecture, polyglot systems where each language earns its place, and docs written in my own voice
+-  **Operating:** MasTECH Innovations, custom software solutions and professional computer hardware maintenance
+-  **Ask me about:** React, Node, PWAs, PHP, GO, Rust, Elixir, Julia, CUE, compiler bytecode and LSP work, and reviving enterprise laptops
 
 ---
 
-## 🛠️ Technical skills and ecosystem
+##  Technical skills and ecosystem
 
-### 💻 Programming languages
+###  Programming languages
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"> <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="rust"> <img src="https://img.shields.io/badge/Elixir-9B6BB3?style=for-the-badge&logo=elixir&logoColor=white" alt="elixir"> <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="julia"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="bash">
 
@@ -59,7 +59,7 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 
 ---
 
-## 🚧 What i'm building
+##  What i'm building
 
 - **[Killowatt](https://github.com/Mascottz/Killowatt);** the hard stop for runaway cloud spend. rust core, elixir watchers, cue policies, julia anomaly scoring; v0.1.0 out, ci green in four languages
 - **[Small machines](https://github.com/Mascottz/small-machines);** three tools, one file each, nothing else needed; a poster press, a day dial, a breathing instrument
@@ -67,15 +67,15 @@ Full-stack software engineer and founder of MasTECH Innovations, building respon
 - **SmartStore;** a POS e-commerce and inventory web app, and **MasTECH Academy LMS**
 - **ProofsGadgets;** a community and marketplace platform for tech repair engineers
 
-## 🌙 Beyond the code
+##  Beyond the code
 
-- 🔩 reviving enterprise laptops on the bench, one diagnosis at a time
-- 🗣️ linguistics and grammar across english, nigerian pidgin, hausa, and igbo; the next project, Àmì, is an autocorrect that finally learns them
-- ⚽ tactical masterclasses in football manager, and high-concept classic sci-fi
+-  reviving enterprise laptops on the bench, one diagnosis at a time
+-  linguistics and grammar across english, nigerian pidgin, hausa, and igbo; the next project, Àmì, is an autocorrect that finally learns them
+-  tactical masterclasses in football manager, and high-concept classic sci-fi
 
 ---
 
-## 🤝 Let's connect
+##  Let's connect
 
 Open to collaborating on web architecture, ed-tech, polyglot systems, and hardware-integrated software. the fastest paths are the badges up top; the write-up on [dev.to](https://dev.to/mascottz/i-built-a-circuit-breaker-for-runaway-cloud-spend-ka6) shows the voice before the code does.
 
