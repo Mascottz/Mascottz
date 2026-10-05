@@ -18,7 +18,7 @@
 ---
 
 ##  About me
-Hi, I'm Ayomide Akintokun 👋 (aka Mascottz)
+Hi, I'm Ayomide Akintokun 👋 (aka Mascottz) <br>
 Full-stack software engineer and founder of MasTECH Innovations, building responsive, high-performance web apps and enterprise solutions by day, and calm machines for loud problems by night. the newest is codex naturalis, a living book of the mathematics of the world; the one before it is killowatt, a circuit breaker for runaway cloud spend, written across five languages on purpose.
 
 -  **Focus:** cloud spend circuit breakers, language architecture for the kitsu language, POS and LMS platforms, and hardware that gets a second life
