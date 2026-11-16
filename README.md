@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mastechinnovations.com.ng"><img src="https://img.shields.io/badge/Website-0D1A15?style=for-the-badge&logoColor=white&logo=googlechrome&color=0D1A15" alt="website"></a>
+  <a href="https://www.mastechinnovations.xyz"><img src="https://img.shields.io/badge/Website-0D1A15?style=for-the-badge&logoColor=white&logo=googlechrome&color=0D1A15" alt="website"></a>
   <a href="mailto:mastech.ltd0@gmail.com"><img src="https://img.shields.io/badge/Email-C98E5F?style=for-the-badge&logo=gmail&logoColor=white&color=8a5a34" alt="email"></a>
   <a href="https://dev.to/mascottz"><img src="https://img.shields.io/badge/Dev.to-101418?style=for-the-badge&logo=devdotto&logoColor=white&color=101418" alt="devto"></a>
   <a href="https://github.com/Mascottz/Killowatt"><img src="https://img.shields.io/badge/Killowatt-13221C?style=for-the-badge&logo=github&logoColor=white&color=13221C" alt="killowatt"></a>
