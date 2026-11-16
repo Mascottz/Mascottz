@@ -48,15 +48,32 @@ Hi, I'm Ayomide Akintokun  (aka Mascottz) <br>
 
 ---
 
-##  The numbers, live
+##  The numbers
+
+<!--
+  These three cards are SVGs committed in ./profile, rebuilt daily by
+  .github/workflows/profile-cards.yml. They are deliberately not hotlinked:
+  the shared hosts they used to come from (github-readme-stats.vercel.app and
+  streak-stats.demolab.com) are documented as best effort and rate limited, and
+  when one failed the README showed a broken image. Static files cannot rate
+  limit, and a failed rebuild leaves the previous good card in place.
+
+  Widths are fixed pixels that add up to 739, inside GitHub's ~896px readme
+  column, so the pair sit side by side on desktop and stack cleanly on mobile
+  instead of wrapping at awkward percentage widths.
+-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mascottz&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&icon_color=7FA8A0&show_icons=true&hide_border=true&cache_seconds=21600" alt="stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascottz&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600" alt="langs" width="44%">
+  <img src="./profile/stats.svg" alt="GitHub stats: stars earned, commits, pull requests, issues, and repositories contributed to over the last year" width="467" height="195">
+  <img src="./profile/top-langs.svg" alt="Most used languages by bytes of code" width="272" height="195">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mascottz&background=0D1A15&border=24382E&ring=C98E5F&fire=E2794F&currStreakLabel=ECE7DB&sideLabels=ECE7DB&sideNums=9FB6A7&dates=9FB6A7&hide_border=true" alt="streak" width="70%">
+  <img src="./profile/streak.svg" alt="Total contributions, current streak, and longest streak" width="495" height="195">
+</p>
+
+<p align="center">
+  <sub>Rebuilt from the GitHub API once a day, so the numbers can lag a push by a few hours.</sub>
 </p>
 
 ---
