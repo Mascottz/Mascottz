@@ -1,0 +1,106 @@
+name: Profile cards
+
+# The three cards in the README used to be hotlinked from shared hosts
+# (github-readme-stats.vercel.app and streak-stats.demolab.com). Those are
+# documented as best effort, they rate limit, and the upstream
+# anuraghazra/github-readme-stats project now carries a deprecation notice.
+# When one of them failed, GitHub's image proxy had nothing valid to serve and
+# the README showed a broken image.
+#
+# So the cards are built here and committed as static SVGs. Nothing in the
+# README is fetched from a host we do not control at render time.
+#
+# Every step runs with fail_on_error / set -e, and the commit step only adds the
+# SVGs, so a bad run aborts instead of replacing a good card with an error card.
+# The last good SVGs stay on the profile.
+#
+# No secret is required. The stats action falls back to GITHUB_TOKEN, and the
+# streak script reads GitHub's public contributions endpoint.
+
+on:
+  schedule:
+    # 06:17 UTC daily. Off the hour on purpose: every profile README cron in the
+    # world fires at midnight, and being one of them is how the shared hosts got
+    # rate limited in the first place.
+    - cron: "17 6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/profile-cards.yml
+      - scripts/streak-svg.mjs
+      - scripts/freeze-svg.mjs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v5
+
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: profile/stats.svg
+          # Same look as before: dark green card, tan title, no border.
+          options: >-
+            username=Mascottz&show_icons=true&hide_border=true&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB&icon_color=7FA8A0
+          fail_on_error: true
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: profile/top-langs.svg
+          # langs_count=10 makes the card 300x215, which the README scales to the
+          # same height as the 467x195 stats card so the pair sit flush.
+          # Raise it to 12 to also surface Python and Julia.
+          options: >-
+            username=Mascottz&layout=compact&langs_count=10&hide_border=true&bg_color=0D1A15&border_color=24382E&title_color=C98E5F&text_color=ECE7DB
+          fail_on_error: true
+
+      - name: Streak card
+        run: node scripts/streak-svg.mjs Mascottz profile/streak.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Bake animation end states into the generated cards
+        run: node scripts/freeze-svg.mjs profile/stats.svg profile/top-langs.svg
+
+      - name: Cards must be real SVGs, not error cards
+        run: |
+          set -euo pipefail
+          for card in stats top-langs streak; do
+            file="profile/${card}.svg"
+            test -s "$file" || { echo "::error::${file} is missing or empty"; exit 1; }
+            head -c 200 "$file" | grep -q "<svg" || { echo "::error::${file} does not start with an <svg> root"; exit 1; }
+            if grep -qi "Something went wrong\|Could not fetch" "$file"; then
+              echo "::error::${file} rendered an error card"
+              exit 1
+            fi
+            echo "ok: ${file} ($(wc -c < "$file") bytes)"
+          done
+
+      - name: Commit cards
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg
+          if git diff --cached --quiet; then
+            echo "Cards unchanged."
+          else
+            git commit -m "Update profile stat cards [skip ci]"
+            git push origin "HEAD:${GITHUB_REF#refs/heads/}"
+          fi
