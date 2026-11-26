@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-labelledby="streakTitle streakDesc">
   <title id="streakTitle">Contribution streak</title>
-  <desc id="streakDesc">2,032 contributions. Current streak 23 days. Longest streak 23 days.</desc>
+  <desc id="streakDesc">2,034 contributions. Current streak 24 days. Longest streak 24 days.</desc>
   <style>
     .label { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #ECE7DB }
     .date  { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #9FB6A7 }
@@ -13,7 +13,7 @@
 
   <!-- total contributions -->
     <g transform="translate(82.5, 48)">
-      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="700" font-size="28px">2,032</text>
+      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="700" font-size="28px">2,034</text>
     </g>
     <g transform="translate(82.5, 84)">
       <text x="0" y="32" text-anchor="middle" fill="#ECE7DB" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="400" font-size="14px">Total Contributions</text>
@@ -25,23 +25,23 @@
   <!-- current streak: number inside the ring, then label, then range -->
   <circle cx="247.5" cy="71" r="40" fill="none" stroke="#C98E5F" stroke-width="5"/>
     <g transform="translate(247.5, 48)">
-      <text x="0" y="32" text-anchor="middle" fill="#E2794F" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="700" font-size="28px">23</text>
+      <text x="0" y="32" text-anchor="middle" fill="#E2794F" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="700" font-size="28px">24</text>
     </g>
     <g transform="translate(247.5, 108)">
       <text x="0" y="32" text-anchor="middle" fill="#ECE7DB" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="400" font-size="14px">Current Streak</text>
     </g>
     <g transform="translate(247.5, 145)">
-      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="400" font-size="12px">Nov 3 - Nov 25</text>
+      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="400" font-size="12px">Nov 3 - Nov 26</text>
     </g>
 
   <!-- longest streak -->
     <g transform="translate(412.5, 48)">
-      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="700" font-size="28px">23</text>
+      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="700" font-size="28px">24</text>
     </g>
     <g transform="translate(412.5, 84)">
       <text x="0" y="32" text-anchor="middle" fill="#ECE7DB" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="400" font-size="14px">Longest Streak</text>
     </g>
     <g transform="translate(412.5, 114)">
-      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="400" font-size="12px">Nov 3 - Nov 25</text>
+      <text x="0" y="32" text-anchor="middle" fill="#9FB6A7" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-weight="400" font-size="12px">Nov 3 - Nov 26</text>
     </g>
 </svg>
